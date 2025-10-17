@@ -104,5 +104,6 @@ def resolver_bauxita():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)    # Ejecutar servidor
+    app.run(debug=True)    # Ejecutarservidor
+    
 
